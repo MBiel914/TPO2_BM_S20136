@@ -1,7 +1,5 @@
 Programowanie klient-serwer z użyciem gniazd i protokołów sieciowycych (bez kanałów i  selektorów)
 
-
-
 Zaprojektuj aplikację umożliwiającą korzystanie z usługi słownikowej w różnych językach. Struktura aplikacji powinna składać się, min. z
 
 * serwera głównego,
